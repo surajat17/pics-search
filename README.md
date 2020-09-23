@@ -1,11 +1,13 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# pics-search app
+this is a web app made using reactjs framework. this app basically takes input from
+user and show high-defination images as result.
 
 
 
 ### `to run this app`
 
-*npm install
-*npm start
+* npm install
+* npm start
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
